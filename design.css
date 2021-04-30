@@ -1,0 +1,182 @@
+body {
+    background-color: lavenderblush;
+}
+
+.container {
+    position: relative;
+    margin: auto;
+    top: 40px;
+    width: 50%;
+    height: 500px;
+
+    border-radius: 25px;
+    border: 3px solid black;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+
+    background-color: white
+}
+
+.header {
+    position: relative;
+    margin: auto;
+    top: 2px;
+    width: 90%;
+    height: 50px;
+
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 10px;
+
+    font-family: "Gill Sans", sans-serif;
+    font-size: auto;
+    text-align: center;
+    font-weight: 500;
+    color: white;
+
+    background-color: rgb(14, 63, 63);
+}
+
+.username {
+    position: relative;
+    width: auto;
+    height: auto;
+    top: -360px;
+
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 20px;
+}
+
+.password {
+    position: relative;
+    width: auto;
+    height: auto;
+    top: -330px;
+    
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 20px;
+}
+
+.insert {
+    position: relative;
+    width: 200px;
+    height: 20px;
+    top: 7px;
+
+    border-radius: 25px;
+    border: 2px solid black;
+
+    font-family: "Gill Sans", sans-serif;
+    font-size: 15px;
+}
+
+.input[type="password"]
+{
+  -webkit-text-security: disc;
+}
+
+.create {
+    position: relative;
+
+    margin: auto;
+    height: 35px;
+    width: 10%;
+    left: 41%;
+    top: -290px;
+
+    border-radius: 25px;
+    border: 2px solid black;
+
+    font-family: "Gill Sans", sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+
+    background-color: rgb(36, 116, 255);
+}
+
+.cancel {
+    position: relative;
+
+    margin: auto;
+    height: 35px;
+    width: 10%;
+    left: 39%;
+    top: -290px;
+
+    border-radius: 25px;
+    border: 2px solid black;
+
+    font-family: "Gill Sans", sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+
+    background-color: rgb(247, 64, 61);
+}
+
+.th0rup {
+    position: absolute;
+    margin: auto;
+    height: 35px;
+    width: 10%;
+    left: 26%;
+    top: 545px;
+
+    font-family: "Gill Sans", sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: black;
+}
+
+.forgot {
+    position: relative;
+    margin: auto;
+    top: 15px;
+    left: -5px;
+
+    border-radius: 25px;
+    border: 2px solid black;
+
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: white;
+
+    background-color: rgb(240, 93, 93);
+}
+
+.loginbutton {
+    position: relative;
+    margin: auto;
+    top: 80px;
+    left: -5px;
+    height: 35px;
+    width: 10%;
+
+    border-radius: 25px;
+    border: 2px solid black;
+
+    font-family: "Gill Sans", sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+
+    background-color: rgb(36, 116, 255);
+}
+
+.checkbox1 {
+    position: relative;
+    margin: auto;
+    top: -160px;
+    left: 280px;
+    height: 35px;
+    width: 10%;
+
+    font-family: "Gill Sans", sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: black;
+}
